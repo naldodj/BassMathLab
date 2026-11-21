@@ -1,4 +1,4 @@
-# BassMathLab
+# 🎶BassMathLab
 
 Laboratório interativo de **Física Acústica, Matemática e Harmonia** aplicado ao contrabaixo (4 e 5 cordas), construído em um único arquivo HTML com **Web Audio API**.
 
